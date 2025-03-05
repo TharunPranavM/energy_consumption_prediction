@@ -138,7 +138,8 @@ Features
 The final ensemble model improves accuracy by leveraging multiple individual model predictions. The Random Forest meta-model significantly reduces error rates.
 
 Example Performance:
-- **Final Ensemble RMSE**: *0.11789913171750589*
-- **Final Ensemble MAPE**: *10.605936147993877 %*
+- **Final Ensemble RMSE**: *3958.64*
+- **Final Ensemble MAPE**: *0.11789913171750589*
+- **Final Ensemble Percentual**: *10.605936147993877 %*
 
 ---
