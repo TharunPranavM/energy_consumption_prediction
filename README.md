@@ -16,7 +16,6 @@ This project predicts power consumption using multiple machine learning models, 
 - [Evaluation Metrics](#evaluation-metrics)
 - [Web Application](#web-application)
 - [Results](#results)
-- [Contributors](#contributors)
 
 ---
 
